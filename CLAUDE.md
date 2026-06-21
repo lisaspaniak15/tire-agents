@@ -109,6 +109,13 @@ Planned integrations for the future agent portal (not yet built):
 
 ---
 
+## Machine Setup
+
+- **Desktop (main):** Lisa's primary dev machine. Has full credentials and `flyctl` authenticated. Use for deployments.
+- **Laptop (secondary):** Being brought to full parity. If `flyctl` isn't authenticated, note the task and deploy from the desktop.
+
+---
+
 ## Session Update Rule
 
 At the end of every session, update this CLAUDE.md to reflect any significant changes made (new features, files, deployment changes, process changes).
